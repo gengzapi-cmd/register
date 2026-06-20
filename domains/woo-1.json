@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "gengzapi-cmd",
+    "email": "gengzapi@gmail.com"
+  },
+  "records": {
+    "CNAME": "ttoksave.vercel.app"
+  }
+}

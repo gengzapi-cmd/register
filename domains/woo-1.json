@@ -2,12 +2,8 @@
   "owner": {
     "username": "gengzapi-cmd",
     "email": "gengzapi@gmail.com"
-  },
-  "records": {
-    "CNAME": "ttoksave.vercel.app"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": "vc-domain-verify=ttoksave.is-a.dev,b298ebe6c7034e38ceeb"
-  }
+    },
+    "records": {
+        "A": [216.198.79.1"]
+    }
 }
